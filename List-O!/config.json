@@ -1,0 +1,37 @@
+{"Configuration": {
+    "sql": {
+        "startChar": "(",
+        "endChar": ")",
+        "delimiter": ",",
+        "postr": "",
+        "isLinear": false
+    },
+    "text": {
+        "startChar": "(",
+        "endChar": ")",
+        "delimiter": ",",
+        "postr": "'",
+        "isLinear": false
+    },
+    "csv": {
+        "startChar": "",
+        "endChar": "",
+        "delimiter": ",",
+        "postr": "",
+        "isLinear": true
+    },
+    "python": {
+        "startChar": "[",
+        "endChar": "]",
+        "delimiter": ",",
+        "postr": "",
+        "isLinear": true
+    },
+    "custom": {
+        "startChar": "",
+        "endChar": "",
+        "delimiter": " ",
+        "postr": "",
+        "isLinear": true
+    }
+}}    
